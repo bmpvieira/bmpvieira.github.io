@@ -60,10 +60,10 @@
     - tag: Talks
   timeline-side: right
 
-- title: Computational Biology & Population Genomics Group
+- title: Comput. Bio. & Pop. Genomics Group
   title-url: https://ce3c.ciencias.ulisboa.pt/team/CoBiG2/
   date: 2009 - 2013
-  subtitle: Genome assemblies and annotation
+  subtitle: Genome assemblies and annotations
   tags:
     - tag: Bioinformatics
     - tag: Python
