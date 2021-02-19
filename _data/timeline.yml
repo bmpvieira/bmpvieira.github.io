@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Resurgo Genetics
+  title-url: https://resurgo.com/
+  date: 2019 - Present
+  subtitle: Co-Chief Technology Officer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Bioinformatics
+    - tag: Python
+    - tag: Machine Learning
+    - tag: COVID-19
+    - tag: Cancer
+    - tag: NixOS
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Repositive
+  title-url: https://repositive.io/
+  date: 2018
+  subtitle: Senior Bioinformatician
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Bioinformatics
+    - tag: JavaScript
+    - tag: Ember
   timeline-side: right
 
-- title: Super University
+- title: Queen Mary, University of London
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2014 - 2018
+  subtitle: PhD in Bioinformatics and Population Genomics
   timeline-side: left
 
-- title: Facebook
+- title: Mozilla
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  date: 2016 - 2017
+  subtitle: Open Science Champion
   tags:
-    - tag: React
+    - tag: Open Science
     - tag: Node
-    - tag: Javascript
+    - tag: Workshops
+    - tag: Talks
   timeline-side: right
 
-- title: Super University
+- title: Faculty of Sciences, University of Lisbon
   title-url: https://example.com/
   date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  subtitle: MSc in Human Biology and Environment
   timeline-side: left
