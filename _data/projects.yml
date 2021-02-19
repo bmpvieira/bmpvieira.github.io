@@ -14,17 +14,15 @@
 #     - tag: Node
 
 - name: Bionode.io
-  descr: "Modular and universal bioinformatics - Powered by Node.js Streams"
+  descr: "Modular and universal bioinformatics"
   demo: https://bionode.io/
   tags:
     - tag: Node
     - tag: Streams
-    - tag: AngularJS
-    - tag: Node
 
 - name: ESEB 2013
   descr: "XIV Congress of the European Society for Evolutionary Biology"
   demo: http://eseb2013.com/
   tags:
-    - tag: Express.js
+    - tag: Express
     - tag: MongoDB

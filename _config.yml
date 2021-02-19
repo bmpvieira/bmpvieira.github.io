@@ -14,15 +14,15 @@ baseurl: ""
 username: bmpvieira
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: CTO / Biologist / Full Stack Web Dev
+typing_text: CTO / Biologist / Full Stack Dev
 # email: Your E-Mail address for the email button.
 email: bruno@vieira.io
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: bmpvieira
-codepen_username: bmpvieira
-dev_username: bmpvieira
+codepen_username:
+dev_username:
 linkedin_username: bmpvieira
 twitter_username: bmpvieira
 
@@ -34,7 +34,21 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: >
+  <p>Interested in Machine Learning, Genomics, Open Science and the Web.</p>
+
+  <p>Scientist by education and programmer by profession. Over the years, I've coded mostly in Node.js (JavaScript), Python, R, and Shell scripting to analyse Big Genomic Data.</p>
+
+  <p>Founded and lead Bionode.io, an Open Source community to build scalable code and tools for bioinformatics by leveraging Node.js.</p>
+
+  <p>In 2016, the Mozilla Science Lab awarded me a fellowship (one of four, out of 483 submissions) to travel around the world and champion open science through workshops and hackathons.</p>
+
+  <p>Reproducibility and scalability are important to me, thus I've also become an expert in Docker, Singularity, Nix (package manager) and cloud computing.</p>
+
+  <p>Worked for research labs and startups, I enjoy being at the intersection of industry and academia.</p>
+
+# Add links with:
+# <a class="highlight-link" href="https://link.com/" target="_blank" rel="noreferrer"> Link</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +67,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://bmpvieira.com/cv
+cv_download_link: http://bmpvieira.com/cv
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -81,7 +95,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: You can reach me via the channels below.
 
 # GITHUB-METADATA
 # Set this to your forked repository

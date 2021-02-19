@@ -41,24 +41,44 @@
   timeline-side: right
 
 - title: Queen Mary, University of London
-  title-url: https://example.com/
+  title-url: https://wurmlab.github.io/
   date: 2014 - 2018
   subtitle: PhD in Bioinformatics and Population Genomics
+  tags:
+    - tag: Genomics
+    - tag: Effective Population Size
   timeline-side: left
 
 - title: Mozilla
-  title-url: https://example.com/
+  title-url: https://wiki.mozilla.org/ScienceLab/
   date: 2016 - 2017
   subtitle: Open Science Champion
   tags:
     - tag: Open Science
-    - tag: Node
+    - tag: Bionode
     - tag: Workshops
     - tag: Talks
   timeline-side: right
 
-- title: Faculty of Sciences, University of Lisbon
-  title-url: https://example.com/
-  date: 2014 - 2017
+- title: Computational Biology & Population Genomics Group
+  title-url: https://ce3c.ciencias.ulisboa.pt/team/CoBiG2/
+  date: 2009 - 2013
+  subtitle: Genome assemblies and annotation
+  tags:
+    - tag: Bioinformatics
+    - tag: Python
+    - tag: R
+    - tag: ESEB2013
+    - tag: Node
+  timeline-side: right
+
+- title: Faculty of Sciences, Uni. of Lisbon
+  title-url: https://fenix.ciencias.ulisboa.pt/degrees/biologia-humana-e-ambiente-564500436615202/curriculo
+  date: 2004 - 2009
   subtitle: MSc in Human Biology and Environment
+  tags:
+    - tag: Antibiotics Resistance
+    - tag: Cell cultures
+    - tag: ImageJ
+    - tag: Java
   timeline-side: left
