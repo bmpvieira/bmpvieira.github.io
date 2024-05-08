@@ -69,7 +69,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: http://bmpvieira.com/cv
+cv_download_link: https://github.com/bmpvieira/bmpvieira/blob/main/bruno-vieira-cv.pdf
 
 # PROJECTS SECTION
 # show_projects_card:
