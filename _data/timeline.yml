@@ -17,9 +17,22 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Lifebit.ai
+  title-url: https://lifebit.ai/
+  date: 2021 - Present
+  subtitle: Senior Backend Engineer
+  tags:
+    - tag: TypeScript
+    - tag: MongoDB
+    - tag: Interactive Notebooks
+    - tag: AWS
+    - tag: Docker
+    - tag: Kubernetes
+  timeline-side: right
+
 - title: Resurgo Genetics
   title-url: https://resurgo.com/
-  date: 2019 - Present
+  date: 2019 - 2021
   subtitle: Co-Chief Technology Officer
   tags:
     - tag: Bioinformatics
