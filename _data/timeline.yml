@@ -17,9 +17,23 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Oracle
+  title-url: https://oracle.com/
+  date: 2024 - Present
+  subtitle: Senior Consultant
+  tags:
+    - tag: Interactive Notebooks
+    - tag: Java
+    - tag: SQL
+    - tag: Infrastructure and networking
+    - tag: QA and testing
+    - tag: Oracle Financial Services Analytical Applications
+    - tag: Oracle Financial Crime and Compliance Solutions
+  timeline-side: right
+
 - title: Lifebit.ai
   title-url: https://lifebit.ai/
-  date: 2021 - Present
+  date: 2021 - 2024
   subtitle: Senior Backend Engineer
   tags:
     - tag: TypeScript
